@@ -9,6 +9,10 @@
 
 ## Datasets
 
+**MIND: A Large-scale Dataset for News Recommendation**  
+*Fangzhao Wu, Ying Qiao, Jiun-Hung Chen, Chuhan Wu, Tao Qi, Jianxun Lian, Danyang Liu, Xing Xie, Jianfeng Gao, Winnie Wu and Ming Zhou*  
+ACL – Juli 2020 [[paper](https://aclanthology.org/2020.acl-main.331/)] [[code](https://msnews.github.io/)]
+
 ## Workshops and Tutorials
 
 ## Diversity in News Recommendations
