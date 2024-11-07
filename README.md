@@ -7,7 +7,7 @@
 - [Recommendation Methods](#news-recommender-systems)
   - [Generative News Recommendations](#generative-news-recommendations)
   - [Neural News Recommendations](#neural-news-recommendations)
-  - [Beyond-Accuracy Goals](#beyond---accuracy-goals)
+  - [Beyond-Accuracy Goals](#beyond-accuracy-goals)
 - [News Recommendations & Society](#news-recommendations-and-society)
 - [Surveys](#surveys)
 
@@ -37,7 +37,7 @@ ACM Web Conference – March 2024 [[paper](https://dl.acm.org/doi/abs/10.1145/35
 *Chuhan Wu, Fangzhao Wu, Mingxiao An, Jianqiang Huang, Yongfeng Huang, Xing Xie*\
 IJCAI – July 2019 [[paper](https://www.ijcai.org/proceedings/2019/536)]
 
-### Diversity in News Recommendations
+### Beyond-Accuracy Goals
 
 **RADio*: An Introduction to Measuring Normative Diversity in News Recommendations**\
 *Sanne Vrijenhoek, Gabriel Bénédict, Mateo Gutierrez Granada, Daan Odijk*\
