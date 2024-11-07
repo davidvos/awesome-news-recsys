@@ -19,6 +19,8 @@ ACL – Juli 2020 [[paper](https://aclanthology.org/2020.acl-main.331/)] [[code]
 
 ## News Recommender Systems
 
+### 2019
+
 **Neural News Recommendation with Attentive Multi-View Learning**  
 *Chuhan Wu, Fangzhao Wu, Mingxiao An, Jianqiang Huang, Yongfeng Huang, Xing Xie*  
 IJCAI – July 2019 [[paper](https://www.ijcai.org/proceedings/2019/536)]
