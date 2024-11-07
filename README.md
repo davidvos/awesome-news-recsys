@@ -24,7 +24,7 @@ ACL – Juli 2020 [[paper](https://aclanthology.org/2020.acl-main.331/)] [[code]
 
 **LKPNR: LLM and KG for Personalized News Recommendation Framework**\
 *Runfeng Xie, et al.*\
-arXiv – August 2023 [[paper](https://arxiv.org/abs/2308.12028)]
+arXiv – August 2023 [[paper](https://arxiv.org/abs/2308.12028){:target="_blank"}]
 
 **Generative News Recommendation**\
 *Shen Gao, Jiabao Fang, Quan Tu, Zhitao Yao, Zhumin Chen, Pengjie Ren, Zhaochun Ren*\
