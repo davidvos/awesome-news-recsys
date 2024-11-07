@@ -47,7 +47,7 @@ ACM Transactions on Recommender Systems – December 2023 [[paper](https://dl.ac
 
 **It's (not) All About That CTR: A Multi-Stakeholder Perspective on News Recommender Metrics**\
 *Hanne Vandenbroucke, Annelien Smets*\
-ACM Conference on Recommender Systems – September 2024 [[paper](https://dl.acm.org/doi/10.1145/3666072)]
+ACM Conference on Recommender Systems – September 2024 [[paper](https://doi.org/10.1145/3640457.3688183)]
 
 **Where are the Values? A Systematic Literature Review on News Recommender Systems**\
 *Christine Bauer, Chandni Bagchi, Olusanmi A. Hundogan, Karin van Es*\
