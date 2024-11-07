@@ -4,12 +4,12 @@
 
 - [Datasets](#datasets)
 - [Workshops and Tutorials](#workshops-and-tutorials)
-- [News Recommendation Methods](#news-recommender-systems)
+- [Recommendation Methods](#news-recommender-systems)
   - [Generative News Recommendations](#generative-news-recommendations)
   - [Neural News Recommendations](#neural-news-recommendations)
-  - [Diversity in News Recommendations](#diversity-in-news-recommendations)
-  - [News Recommendations & Society](#news-recommendations-and-society)
+  - [Beyond-Accuracy Goals]
   - [Surveys](#surveys)
+- [News Recommendations & Society]
 
 ## Datasets
 
