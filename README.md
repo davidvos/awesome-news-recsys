@@ -9,6 +9,7 @@
   - [Neural News Recommendations](#neural-news-recommendations)
   - [Diversity in News Recommendations](#diversity-in-news-recommendations)
   - [News Recommendations & Society](#news-recommendations-and-society)
+  - [Surveys](#surveys)
 
 ## Datasets
 
@@ -51,3 +52,5 @@ ACM Transactions on Recommender Systems – June 2024 [[paper](https://dl.acm.or
 **On the Democratic Role of News Recommenders**\
 *Natali Helberger*\
 Algorithms, Automation, and News – September 2021 [[paper](https://www.routledge.com/Algorithms-Automation-and-News/Diakopoulos/p/book/9780367622121)]
+
+### Surveys
