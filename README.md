@@ -38,6 +38,10 @@ IJCAI – July 2019 [[paper](https://www.ijcai.org/proceedings/2019/536)]
 
 ### Diversity in News Recommendations
 
+**RADio*: An Introduction to Measuring Normative Diversity in News Recommendations**\
+*Sanne Vrijenhoek, Gabriel Bénédict, Mateo Gutierrez Granada, Daan Odijk*\
+ACM Transactions on Recommender Systems – December 2023 [[paper](https://dl.acm.org/doi/10.1145/3636465)]
+
 ### News Recommendations & Society
 
 **Where are the Values? A Systematic Literature Review on News Recommender Systems**\
