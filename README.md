@@ -7,8 +7,8 @@
 - [Recommendation Methods](#news-recommender-systems)
   - [Generative News Recommendations](#generative-news-recommendations)
   - [Neural News Recommendations](#neural-news-recommendations)
-  - [Beyond-Accuracy Goals](#beyond-accuracy-goals)
-- [News Recommendations & Society](#news-recommendations-&-society)
+  - [Beyond-Accuracy Goals](#beyond---accuracy-goals)
+- [News Recommendations & Society](#news-recommendations-and-society)
 - [Surveys](#surveys)
 
 ## Datasets
@@ -43,7 +43,7 @@ IJCAI – July 2019 [[paper](https://www.ijcai.org/proceedings/2019/536)]
 *Sanne Vrijenhoek, Gabriel Bénédict, Mateo Gutierrez Granada, Daan Odijk*\
 ACM Transactions on Recommender Systems – December 2023 [[paper](https://dl.acm.org/doi/10.1145/3636465)]
 
-## News Recommendations & Society
+## News Recommendations and Society
 
 **Where are the Values? A Systematic Literature Review on News Recommender Systems**\
 *Christine Bauer, Chandni Bagchi, Olusanmi A. Hundogan, Karin van Es*\
