@@ -47,3 +47,7 @@ ACM Transactions on Recommender Systems – December 2023 [[paper](https://dl.ac
 **Where are the Values? A Systematic Literature Review on News Recommender Systems**\
 *Christine Bauer, Chandni Bagchi, Olusanmi A. Hundogan, Karin van Es*\
 ACM Transactions on Recommender Systems – June 2024 [[paper](https://dl.acm.org/doi/pdf/10.1145/3654805)]
+
+**On the Democratic Role of News Recommenders**\
+*Natali Helberger*\
+Algorithms, Automation, and News – September 2021 [[paper](https://www.routledge.com/Algorithms-Automation-and-News/Diakopoulos/p/book/9780367622121)]
