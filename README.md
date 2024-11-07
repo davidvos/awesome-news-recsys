@@ -19,6 +19,12 @@ ACL – Juli 2020 [[paper](https://aclanthology.org/2020.acl-main.331/)] [[code]
 
 ## News Recommender Systems
 
+### 2024
+
+**Generative News Recommendation**
+Shen Gao, Jiabao Fang, Quan Tu, Zhitao Yao, Zhumin Chen, Pengjie Ren, Zhaochun Ren
+Proceedings of the ACM on Web Conference 2024 [[paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645448)]
+
 ### 2019
 
 **Neural News Recommendation with Attentive Multi-View Learning**  
