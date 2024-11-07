@@ -39,3 +39,7 @@ IJCAI – July 2019 [[paper](https://www.ijcai.org/proceedings/2019/536)]
 ### Diversity in News Recommendations
 
 ### News Recommendations & Society
+
+**Where are the Values? A Systematic Literature Review on News Recommender Systems**\
+*Christine Bauer, Chandni Bagchi, Olusanmi A. Hundogan, Karin van Es*\
+ACM Transactions on Recommender Systems – June 2024 [[paper](https://dl.acm.org/doi/pdf/10.1145/3654805)]
